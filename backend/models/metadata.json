@@ -1,0 +1,1 @@
+{"accuracy": 0.8130081300813008, "cv_score": 0.7883113421298148, "cv_std": 0.020210173905732095, "feature_names": ["Gender", "Married", "Dependents", "Education", "Self_Employed", "ApplicantIncome", "CoapplicantIncome", "LoanAmount", "Loan_Amount_Term", "Credit_History", "Property_Area"], "training_samples": 491, "test_samples": 123, "trained_at": "2026-04-07T11:19:54.856284"}
